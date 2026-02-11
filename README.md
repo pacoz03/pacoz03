@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning **Kubernetes, Docker**
 
-- 💬 Ask me about **React, Django, Python, Java, Spring Boot, OCI, AWS, Docker, C**
+- 💬 Ask me about **React, Django, Python, Java, Spring Boot, OCI, AWS, Docker, C, Kubernetes, ReactNative**
 
 - 📫 How to reach me **pasqualelivrieri0@gmail.com**
 
